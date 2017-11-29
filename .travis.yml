@@ -1,4 +1,4 @@
-install: brew install check
+install: make dep
 script: make test
 compiler: gcc
 language: c
