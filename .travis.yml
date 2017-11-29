@@ -1,0 +1,4 @@
+install: brew install check
+script: make test
+compiler: gcc
+language: c
